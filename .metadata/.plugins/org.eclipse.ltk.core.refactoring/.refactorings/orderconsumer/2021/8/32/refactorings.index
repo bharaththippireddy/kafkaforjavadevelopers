@@ -1,0 +1,18 @@
+1627963949351	Extract local variable 'singletonMap'
+1627964986964	Convert local variable 'singletonMap' to field
+1627966371958	Delete element
+1627968441339	Extract local variable 'singletonMap'
+1628311748699	Delete element
+1628312067507	Copy compilation unit
+1628312099531	Delete element
+1628312156942	Copy compilation unit
+1628312262435	Delete element
+1628312298061	Copy compilation unit
+1628312351662	Extract local variable 'partitions'
+1628312423700	Delete element
+1628312453050	Copy compilation unit
+1628312532039	Extract local variable 'partitions'
+1628312694736	Delete element
+1628312994527	Copy compilation unit
+1628313056749	Extract local variable 'partitions'
+1628315884996	Delete element

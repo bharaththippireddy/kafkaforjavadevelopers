@@ -1,0 +1,5 @@
+package com.bharath.kafka.dto;
+
+public class User {
+
+}

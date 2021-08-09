@@ -1,0 +1,26 @@
+package com.bharath.kafka.orderconsumer;
+
+import static org.junit.Assert.assertTrue;
+
+import org.junit.Test;
+
+/**
+ * Unit test for simple App.
+ */
+public class AppTest 
+{
+    /**
+     * Rigorous Test :-)
+     */
+    @Test
+    public void shouldAnswerWithTrue()
+    {
+    	
+    	double d1 = 1, d2 =2;
+    	
+    	final double d = d1/d2;
+
+    	System.out.println(d1/d2);
+        assertTrue( true );
+    }
+}
